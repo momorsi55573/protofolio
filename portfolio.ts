@@ -191,8 +191,8 @@ export const seoData: SEODataType = {
   title: "Mohamed Morsi",
   description: greetings.description,
   author: "Mohamed Morsi",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  image: "https://media.licdn.com/dms/image/D4D03AQGHZjC-oTaxsw/profile-displayphoto-shrink_800_800/0/1695057716534?e=1715817600&v=beta&t=OoUP4llsa6RlSfUHLtnZkyt0yStdI5uVvQV_xj7epXo",
+  url: "https://protofolio-three.vercel.app/",
   keywords: [
     "Morsi",
     "Mohamed Morsi",
